@@ -1,2 +1,4 @@
 # DiscordDiceBOT
 Discordのかんたんなダイスボット
+
+Program.cs の31行目のDiscordTokenに自分のBOTのやつを入れれば動くと思います

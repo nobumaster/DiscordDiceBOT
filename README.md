@@ -1,0 +1,2 @@
+# DiscordDiceBOT
+Discordのかんたんなダイスボット
